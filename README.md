@@ -1,7 +1,7 @@
 # Cypress-UI-Test-Ecommerce
 
-Install 
-Npm install
+- Install 
+npm install
 
-Run
+- Run
 npm cypress open
