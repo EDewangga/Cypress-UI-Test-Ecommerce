@@ -7,4 +7,4 @@ a. Clone or download the project directory
 
 b. To Run Test
   - npm install
-  - npm run test
+  - npx cypress open
