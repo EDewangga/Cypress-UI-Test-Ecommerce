@@ -1,7 +1,10 @@
-# Cypress-UI-Test-Ecommerce
+# How to run the Project
+OS Requirement: Linux | Mac OS | Windows
 
-- Install 
-npm install
+Pre-requisite: Node.js version >= 7
 
-- Run
-npm cypress open
+a. Clone or download the project directory
+
+b. To Run Test
+  - npm install
+  - npm run test
