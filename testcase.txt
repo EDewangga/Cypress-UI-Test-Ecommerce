@@ -1,0 +1,24 @@
+Login
+- Empty Data Login
+- Invalid Data Login
+- Valid Data Login
+
+Home Page
+- Compare Product
+- Sort Product
+
+Detail Page
+- Compare Product
+
+Chart
+- Add to Chart
+- Remove Chart
+
+Checkout
+- Empty Data Checkout
+- Sum total 
+
+logout
+- logout
+
+
